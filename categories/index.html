@@ -5,14 +5,21 @@
   
 
 
-<html class="theme-next muse use-motion" lang="zh-Hans">
+<html class="theme-next mist use-motion" lang="zh-Hans">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-<meta name="theme-color" content="#222">
+<meta name="theme-color" content="#666">
 
 
+
+  
+  
+    
+    
+  <script src="/lib/pace/pace.min.js?v=1.0.2"></script>
+  <link href="/lib/pace/pace-theme-minimal.min.css?v=1.0.2" rel="stylesheet">
 
 
 
@@ -62,7 +69,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.3">
 
 
-  <link rel="mask-icon" href="/images/logo.svg?v=5.1.3" color="#222">
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.3" color="#666">
 
 
 
@@ -73,8 +80,10 @@
 
 
 
+  
 
-  <link rel="alternate" href="/atom.xml" title="Kk's battlegrounds" type="application/atom+xml" />
+
+  <link rel="alternate" href="/atom.xml" title="Kk's Battlegrounds" type="application/atom+xml" />
 
 
 
@@ -85,7 +94,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="All categories">
 <meta property="og:url" content="https://kiriku.github.io/categories/index.html">
-<meta property="og:site_name" content="Kk&#39;s battlegrounds">
+<meta property="og:site_name" content="Kk&#39;s Battlegrounds">
 <meta property="og:description" content="persional blog for fun.">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:updated_time" content="2017-11-21T10:03:43.537Z">
@@ -99,12 +108,12 @@
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
-    scheme: 'Muse',
+    scheme: 'Mist',
     version: '5.1.3',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"always","offset":12,"b2t":false,"scrollpercent":true,"onmobile":false},
     fancybox: true,
     tabs: true,
-    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    motion: {"enable":true,"async":true,"transition":{"post_block":"fadeIn"}},
     duoshuo: {
       userId: '0',
       author: '博主'
@@ -127,7 +136,7 @@
 
 
 
-  <title>All categories | Kk's battlegrounds</title>
+  <title>All categories | Kk's Battlegrounds</title>
   
 
 
@@ -151,13 +160,13 @@
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-wrapper">
-  <div class="site-meta ">
+  <div class="site-meta custom-logo">
     
 
     <div class="custom-logo-site-title">
       <a href="/"  class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">Kk's battlegrounds</span>
+        <span class="site-title">Kk's Battlegrounds</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
@@ -197,7 +206,17 @@
             
               <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
             
-            About
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
           </a>
         </li>
       
@@ -207,7 +226,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
             
-            Categories
+            分类
           </a>
         </li>
       
@@ -217,7 +236,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
             
-            Archives
+            归档
           </a>
         </li>
       
@@ -264,7 +283,7 @@
                 目前共计 2 个分类
             </div>
             <div class="category-all">
-              <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/other/">other</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/tech/">tech</a><span class="category-list-count">1</span></li></ul>
+              <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Games/">Games</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Tech/">Tech</a><span class="category-list-count">1</span></li></ul>
             </div>
           </div>
         
@@ -312,6 +331,10 @@
       <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/avatar.jpg"
+                alt="Kk" />
             
               <p class="site-author-name" itemprop="name">Kk</p>
               <p class="site-description motion-element" itemprop="description">persional blog for fun.</p>
@@ -372,12 +395,6 @@
                       <i class="fa fa-fw fa-github"></i>GitHub</a>
                 </span>
               
-                <span class="links-of-author-item">
-                  <a href="mailto:myelysion@live.cn" target="_blank" title="E-Mail">
-                    
-                      <i class="fa fa-fw fa-envelope"></i>E-Mail</a>
-                </span>
-              
             
           </div>
 
@@ -416,15 +433,9 @@
 </div>
 
 
-  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
 
 
 
-  <span class="post-meta-divider">|</span>
-
-
-
-  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Muse</a> v5.1.3</div>
 
 
 
@@ -444,6 +455,8 @@
     
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
+        
+          <span id="scrollpercent"><span>0</span>%</span>
         
       </div>
     
@@ -471,6 +484,7 @@
   
 
 
+  
 
 
 
@@ -481,6 +495,8 @@
 
 
 
+
+  
   
   
     <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
@@ -488,9 +504,11 @@
 
   
   
+  
     <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
   
 
+  
   
   
     <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
@@ -498,9 +516,11 @@
 
   
   
+  
     <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
   
 
+  
   
   
     <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
@@ -508,7 +528,14 @@
 
   
   
+  
     <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+  
+  
+  
+    <script id="nest" type="text/javascript" color="220,20,60" opacity="0.7" count="25" src="/lib/canvas-nest/canvas-nest.min.js"></script>
   
 
 

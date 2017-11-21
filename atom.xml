@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Kk&#39;s battlegrounds</title>
+  <title>Kk&#39;s Battlegrounds</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kiriku.github.io/"/>
-  <updated>2017-11-21T08:03:42.664Z</updated>
+  <updated>2017-11-21T19:06:18.558Z</updated>
   <id>https://kiriku.github.io/</id>
   
   <author>
@@ -17,29 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://kiriku.github.io/2017/11/21/test/"/>
-    <id>https://kiriku.github.io/2017/11/21/test/</id>
+    <title>PUBG倍镜2倍，4倍，8倍镜快速测距</title>
+    <link href="https://kiriku.github.io/2017/11/21/PUBG_Ranging/"/>
+    <id>https://kiriku.github.io/2017/11/21/PUBG_Ranging/</id>
     <published>2017-11-20T23:22:01.000Z</published>
-    <updated>2017-11-21T08:03:42.664Z</updated>
+    <updated>2017-11-21T19:06:18.558Z</updated>
+    
+    <content type="html"><![CDATA[<p>对于倍镜的使用大多数人都是通过试射然后调整下次射击位置来实现。<br>对于远距离的对手，需要将敌人一击击倒的场合时，并不十分实用，而另一种方法：</p><blockquote><p><strong>测距 -&gt; 归零 -&gt; 瞄准 -&gt; 射击</strong></p></blockquote><p>为我们提供了一种一击毙敌并且行之有效的方法。</p><h5 id="两倍镜"><a href="#两倍镜" class="headerlink" title="两倍镜"></a>两倍镜</h5><p><strong>100M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/2x_100.PNG" alt="2x_100"><br><strong>200M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/2x_200.PNG" alt="2x_200"><br><strong>300M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/2x_300.PNG" alt="2x_300"></p><hr><h5 id="四倍镜"><a href="#四倍镜" class="headerlink" title="四倍镜"></a>四倍镜</h5><p><strong>100M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/4x_100.PNG" alt="4x_100"><br><strong>200M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/4x_200.PNG" alt="4x_200"><br><strong>300M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/4x_300.PNG" alt="4x_300"><br><strong>400M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/4x_400.PNG" alt="4x_400"><br><strong>500M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/4x_500.PNG" alt="4x_500"><br><strong>600M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/4x_600.PNG" alt="4x_600"></p><hr><h5 id="八倍镜"><a href="#八倍镜" class="headerlink" title="八倍镜"></a>八倍镜</h5><p><strong>100M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/8x_100.PNG" alt="8x_100"><br><strong>200M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/8x_200.PNG" alt="8x_200"><br><strong>300M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/8x_300.PNG" alt="8x_300"><br><strong>400M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/8x_400.PNG" alt="8x_400"><br><strong>500M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/8x_500.PNG" alt="8x_500"><br><strong>600M</strong> :<br><img src="https://raw.githubusercontent.com/Kiriku/kiriku.github.io/master/images/PUBG_Ranging/8x_600.PNG" alt="8x_600"></p><p>参考资料：<br>绝地求生苦大师教学系列：<br><a href="https://www.bilibili.com/video/av14794122/" target="_blank" rel="noopener">https://www.bilibili.com/video/av14794122/</a><br><a href="https://www.bilibili.com/video/av14828854/" target="_blank" rel="noopener">https://www.bilibili.com/video/av14828854/</a></p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;对于倍镜的使用大多数人都是通过试射然后调整下次射击位置来实现。&lt;br&gt;对于远距离的对手，需要将敌人一击击倒的场合时，并不十分实用，而另一种方法：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;测距 -&amp;gt; 归零 -&amp;gt; 瞄准 -&amp;gt; 射击&lt;/stron
+      
+    
     </summary>
     
-      <category term="other" scheme="https://kiriku.github.io/categories/other/"/>
+      <category term="Games" scheme="https://kiriku.github.io/categories/Games/"/>
     
     
-      <category term="test" scheme="https://kiriku.github.io/tags/test/"/>
+      <category term="PUBG" scheme="https://kiriku.github.io/tags/PUBG/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://kiriku.github.io/2017/11/21/hello-world/"/>
-    <id>https://kiriku.github.io/2017/11/21/hello-world/</id>
+    <link href="https://kiriku.github.io/2017/11/21/Hexo_Hallo_World/"/>
+    <id>https://kiriku.github.io/2017/11/21/Hexo_Hallo_World/</id>
     <published>2017-11-20T22:19:45.239Z</published>
-    <updated>2017-11-21T08:01:08.242Z</updated>
+    <updated>2017-11-21T17:49:10.243Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -52,7 +61,7 @@
     
     </summary>
     
-      <category term="tech" scheme="https://kiriku.github.io/categories/tech/"/>
+      <category term="Tech" scheme="https://kiriku.github.io/categories/Tech/"/>
     
     
       <category term="hexo" scheme="https://kiriku.github.io/tags/hexo/"/>
